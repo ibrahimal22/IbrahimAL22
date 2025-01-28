@@ -30,8 +30,7 @@ I'm a passionate **Full Stack AI Developer** and **DevOps Engineer** from Medeni
 - **🌡️ IoT-Enabled Temperature Management App:** Mobile app developed with Flutter and Firebase, integrated with Raspberry Pi.
 - **💡 Automatic Lighting Control System:** IoT solution using ESP32 and Firebase for automated lighting control.
 
-## 📈 GitHub Stats
-![Ibrahim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IbrahimAL22&show_icons=true&theme=radical)
+
 
 ## 🌐 Let's Connect
 - 📧 **Email:** [ibrahimaloui433@gmail.com](mailto:ibrahimaloui433@gmail.com)
